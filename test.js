@@ -1,1 +1,1 @@
-console.log('My first git js file');
+console.log('My second git js file');
